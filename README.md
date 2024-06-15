@@ -16,7 +16,7 @@ The objective of this project is to create a background generator that allows us
 ## Technologies Used
  HTML: Structure and layout of the web tool.
 CSS: Styling and visual presentation of the tool.
-JavaScript: Functionality and interactivity, including real-time updates and color/gradient selection.## Features
+JavaScript: Functionality and interactivity, including real-time updates and color/gradient selection.
 
 ## Features
 Color Selection: Pick any color using a color picker or enter HEX/RGB values manually.
