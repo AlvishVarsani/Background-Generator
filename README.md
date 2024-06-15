@@ -8,6 +8,11 @@ Background Generator is a web-based tool that allows users to create visually ap
 The objective of this project is to create a background generator that allows users to customize the background of a webpage using a linear gradient composed of two colors. Users should be able to change their desired colors through two input fields and see the background color change accordingly. Additionally, there should be a button that generates two random colors and updates the input fields with these colors.
 
 
+## ScreenShot of project
+![Screenshot 2024-06-15 111229](https://github.com/AlvishVarsani/Background-Generator/assets/112803697/5bc0f415-fbfe-4b74-9eec-0f8a79030fc6)
+
+
+
 ## Technologies Used
  HTML: Structure and layout of the web tool.
 CSS: Styling and visual presentation of the tool.
